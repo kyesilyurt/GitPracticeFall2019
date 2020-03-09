@@ -3,5 +3,7 @@ package Day1;
 public class StringPractice {
     public static void main(String[] args) {
         System.out.println("Hello");
+        String str="Java is Fun";
+        System.out.println(str);
     }
 }
